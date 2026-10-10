@@ -9,7 +9,8 @@
 * **Control Model**: [TST-SSCM-Model-v1.2](https://github.com/pekokids77-lab/TST-SSCM-Model-v1.2) - 拓撲環場心智控制模型與系統結構控制宣告
 * **Swarm Model**: [MSAG-Model-v1.0.3](https://github.com/pekokids77-lab/MSAG-Model-v1.0.3) - 群體極化與資訊流行病：自旋對齊與高維掠食模型宣言
 * **Recovery Model**: [H-SDRM-Model-v1.1.0](https://github.com/pekokids77-lab/H-SDRM-Model-v1.1.0-) - 螺旋衰減擺盪與系統崩潰重構模型宣言
-* **Cognitive Engine**: [SSCM-Cognitive-Model](https://github.com/pekokids77-lab/SSCM-Cognitive-Model) - 自旋球態認知模型 (v2.2.1 修復版)
+* **📐 **[Dimensional Alignment & Formal Specification (v3.2)](./SSCM_Formal_Spec_v3.2.md)**
+  - 適用：嚴格量綱分析、控制理論推導、多智慧體（Multi-Agent）工程化實作。
 
 
 # Unified Cybernetic Control Theory & AICA Architecture
